@@ -1,0 +1,13 @@
+.app__container {
+  display: flex;
+  min-height: 100vh;
+  min-width: 100vh;
+  background: red;
+  justify-content: center;
+  align-items: center;
+  background: radial-gradient(circle, rgb(100, 112, 236) 0%, rgb(1, 1, 51) 100%);
+}
+
+.app__content {
+  max-width: 450px;
+}
